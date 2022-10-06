@@ -6,7 +6,7 @@
 - Learn how to write clean, optimized Golang Code
 
 
-# Week 3 and 4 Final Project
+# Week 5 and 6 Final Project
 
 <h3>Prize</h3>
 
