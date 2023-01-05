@@ -9,14 +9,14 @@ type Person struct {
 	age  int
 }
 
-// Create a new variable
-type NewVariable []byte
+// Create a new variable type
+type NewVariableType []byte
 
 // Main function
 func main() {
 
 	// Declare a new variable with your new type
-	var byteArray NewVariable = []byte{1, 1, 1}
+	var byteArray NewVariableType = []byte{1, 1, 1}
 
 	// Create a new Person Object
 	var user Person = Person{
